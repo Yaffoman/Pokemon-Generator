@@ -1,4 +1,4 @@
-*** Disclaimer ***
+# *** Disclaimer ***  
 ***Everything so far is taken from https://github.com/MatthewRayfield/pokemon-gpt-2 including this README***
 
 
