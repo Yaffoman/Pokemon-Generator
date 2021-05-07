@@ -1,3 +1,8 @@
+*** Disclaimer ***
+***Everything so far is taken from https://github.com/MatthewRayfield/pokemon-gpt-2 including this README***
+
+
+
 # Pokemon GPT-2
 
 This repo contains EVERYTHING you need to train a GPT-2 model with images of your choosing THEN generate new images with that model.
