@@ -1,3 +1,5 @@
+***Most taken from https://github.com/forcecore/Keras-GAN-Animeface-Character ***
+
 ### General Structure
 * args.py - contains hyperparameters used in training
 * augment.py - augments a dataset by flipping in three directions (individually and combined) and added noise
