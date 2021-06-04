@@ -1,4 +1,4 @@
-***Most taken from https://github.com/forcecore/Keras-GAN-Animeface-Character ***
+***Most taken from https://github.com/forcecore/Keras-GAN-Animeface-Character***
 
 ### General Structure
 * args.py - contains hyperparameters used in training
